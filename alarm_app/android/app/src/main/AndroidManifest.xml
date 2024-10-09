@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 656d39ebef91b0c43cc6204b92030e4c6ce5d5e3
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
         android:label="alarm_app"

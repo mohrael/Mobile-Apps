@@ -18,6 +18,10 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # of the product and file versions while build-number is used as the build suffix.
 version: 1.0.0+1
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 656d39ebef91b0c43cc6204b92030e4c6ce5d5e3
 environment:
   sdk: '>=3.3.0 <4.0.0'
 
@@ -30,6 +34,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+<<<<<<< HEAD
+=======
+  flutter_local_notifications: ^14.0.1
+  provider: ^6.0.5
+  audioplayers: ^6.1.0
+  intl: ^0.18.0
+>>>>>>> 656d39ebef91b0c43cc6204b92030e4c6ce5d5e3
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -57,7 +68,10 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+<<<<<<< HEAD
 
+=======
+>>>>>>> 656d39ebef91b0c43cc6204b92030e4c6ce5d5e3
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
